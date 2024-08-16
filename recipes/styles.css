@@ -1,3 +1,14 @@
-.Ingredients{
-    
+img{
+    width: 500px;
+    height: auto;
+    margin-left: 10%;
+}
+
+body{
+    background-color: beige;
+}
+
+.Ingredients,
+.Instructions{
+    font-family: 'Times New Roman', Times, serif;
 }
